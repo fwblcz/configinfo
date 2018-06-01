@@ -1,0 +1,20 @@
+#
+#tp5
+127.0.0.1 localhost
+127.0.0.1 tp50.test.com
+127.0.0.1 tp5.test.com
+127.0.0.1 tp5.blog.com
+127.0.0.1 tp5.myblog.com
+127.0.0.1 tp5.zerg.com
+127.0.0.1 tp5.admin.com
+127.0.0.1 tp5.yfcmf.com
+
+#青鸟
+127.0.0.1 qn.yxb.com
+127.0.0.1 qn.zhxq.com
+127.0.0.1 qn.zhesi.com
+
+#虚拟机
+192.168.10.10 homestead.test
+192.168.10.10 sample.test
+::1 localhost
